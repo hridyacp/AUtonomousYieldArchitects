@@ -1,0 +1,9 @@
+@layer base {
+    * {
+      @apply border-border;
+    }
+  
+    body {
+      @apply font-sans antialiased bg-zinc-900 text-white;
+    }
+}
